@@ -14,7 +14,7 @@ public class Exercise8 {
 		System.out.print("enter the number of siblings:");
 		int siblings=input.nextInt();
 		int length=name.length();
-		System.out.println("hello "+name+" you are "+height+" metres tall,you have "+siblings+" siblings and your name is "+length+" letters long");
+		System.out.println("hello "+name+", you are "+height+" metres tall,you have "+siblings+" siblings and your name is "+length+" letters long");
 	}
 
 }
